@@ -51,6 +51,8 @@
 			)
 		);
 		?>
+		
+		Hello 123456789
 	</div><!-- .entry-content -->
 
 	<footer class="entry-footer">
